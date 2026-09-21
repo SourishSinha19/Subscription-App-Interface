@@ -1,0 +1,6 @@
+{
+  "name": "SubPulse Cyber HUD",
+  "description": "Full-stack subscription termination and telemetry interface powered by Express and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
